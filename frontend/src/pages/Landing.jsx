@@ -98,7 +98,7 @@ export default function Landing() {
           <div className="text-slate-500">
             If you face any issue, you can reach out via{" "}
             <a
-              href="https://shiraai.in/contact"
+              href="https://shiraai.in/#contact"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-slate-300 transition"
